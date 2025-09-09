@@ -2,7 +2,10 @@
 
 Arduino LED controller that syncs to audio. Comes with Rick Roll data pre-loaded, but works with any song.
 
+Note: I like to use the vocals only/acapella version of the song I'm processing so the LED lights up with only the singers voice, but you can do whatever you think looks better.
+
 ## What it does
+
 
 - LED brightness changes based on audio volume
 - Rick Roll data already included 
