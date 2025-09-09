@@ -2,6 +2,11 @@
 
 Arduino LED controller that syncs to audio. Comes with Rick Roll data pre-loaded, but works with any song.
 
+## Demo
+
+<video src="./demo.mp4" controls width="100%"></video>
+*My setup with some extra LEDs and an seperate external speaker*
+
 ## What it does
 
 - LED brightness changes based on audio volume
